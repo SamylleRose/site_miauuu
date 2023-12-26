@@ -88,7 +88,7 @@ p {
     color: black;
     text-decoration: none;
     font-family: "Inter";
-    font-size: 8px;
+    font-size: 10px;
     font-weight: 700;
     padding: 8px 16px;
     background-color: #c5c5b2;
@@ -120,5 +120,15 @@ p {
 
   #conteudo {
     padding: 5% 10px;
+  }
+  #rodape {
+    background-color: #c9c9af;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    font-family: "Inter";
+    font-size: 8px;
   }
 }
